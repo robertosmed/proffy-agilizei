@@ -13,4 +13,5 @@
 *Pronto, agora é só acompanhar a aula* ⚡️
 # proffy-agilizei
 
-# Link do Cypress Dashboard
+## Link do Cypress Dashboard
+[Cypress Dashboard](https://dashboard.cypress.io/projects/8ajqms/runs/3/specs)
